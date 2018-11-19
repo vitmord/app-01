@@ -1,0 +1,1762 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"tr",
+				"transition"
+			],
+			[
+				"auto",
+				"autoprefixer"
+			],
+			[
+				"lib",
+				"libs.css"
+			],
+			[
+				"brows",
+				"browserSync"
+			],
+			[
+				"brow",
+				"browser-sync"
+			],
+			[
+				"browser",
+				"browser-sync\t(package.json)"
+			],
+			[
+				"br",
+				"browser-sync\t(package.json)"
+			],
+			[
+				"main",
+				"main-color"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"class",
+				"classList\t(main.js)"
+			],
+			[
+				"s",
+				"src\t(index.html)"
+			],
+			[
+				"thi",
+				"thin\toutline"
+			],
+			[
+				"tra",
+				"transform"
+			],
+			[
+				"fw",
+				"flex-wrap"
+			],
+			[
+				"co",
+				"content\tproperty"
+			],
+			[
+				"cli",
+				"clip-path\tproperty"
+			],
+			[
+				"max",
+				"max-width\tproperty"
+			],
+			[
+				"i",
+				"inherit\tfont"
+			],
+			[
+				"c",
+				"center\talign-items"
+			],
+			[
+				"che",
+				"checked"
+			],
+			[
+				"fil",
+				"filter-slider"
+			],
+			[
+				"filter-in",
+				"filter-input-checkbox\t(catalog.html)"
+			],
+			[
+				"filter",
+				"filter-input"
+			],
+			[
+				"htt",
+				"https://echo.htmlacademy.ru"
+			],
+			[
+				"feed",
+				"feedback-text"
+			],
+			[
+				"box",
+				"box-shadow\tproperty"
+			],
+			[
+				"bgrp",
+				"background-repeat\tproperty"
+			],
+			[
+				"pag",
+				"pagination-item-current\t(catalog.html)"
+			],
+			[
+				"v",
+				"visually-hidden"
+			],
+			[
+				"su",
+				"submit\t(index.html)"
+			],
+			[
+				"fi",
+				"filter-input"
+			],
+			[
+				"site-navi",
+				"site-navigation-current\t(catalog.html)"
+			],
+			[
+				"catalog-item",
+				"catalog-item-image"
+			],
+			[
+				"app",
+				"appointment"
+			],
+			[
+				"us",
+				"user-login"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"product",
+				"products-item"
+			],
+			[
+				"nes",
+				"news.html"
+			],
+			[
+				"in",
+				"inherit\ttext-transform"
+			],
+			[
+				"hr",
+				"header.php"
+			],
+			[
+				"dn",
+				"d-n\tdisplay: none;"
+			],
+			[
+				"min",
+				"min-height\tproperty"
+			],
+			[
+				"rem",
+				"removeClass\t.removeClass()"
+			],
+			[
+				"lstn",
+				"list-n\tlist-style-type: none;"
+			],
+			[
+				"margin",
+				"margin-top\tproperty"
+			],
+			[
+				"max-",
+				"max-width\tproperty"
+			],
+			[
+				"text-a",
+				"text-align\tproperty"
+			],
+			[
+				"row",
+				"rowspan\tAttr"
+			],
+			[
+				"a",
+				"alt\tAttr"
+			],
+			[
+				"io_102",
+				"io_102_47_1_01"
+			],
+			[
+				"fl",
+				"flex-start"
+			],
+			[
+				"acc",
+				"ac-c\talign-content: center;"
+			],
+			[
+				"spac",
+				"space-between"
+			],
+			[
+				"jus",
+				"justify-content"
+			],
+			[
+				"df",
+				"d-f\tdisplay: flex;"
+			],
+			[
+				"ord",
+				"order"
+			],
+			[
+				"Lu",
+				"'Lucida Grande', 'Lucida Sans Unicode', 'Lucida Sans', Geneva, Verdana, sans-serif"
+			],
+			[
+				"flex",
+				"flex-grow"
+			],
+			[
+				"fldc",
+				"flex-direction"
+			],
+			[
+				"rev",
+				"row-reverse"
+			],
+			[
+				"op",
+				"opacity"
+			],
+			[
+				"p",
+				"pattern-light.jpg\tw:40 h:40"
+			],
+			[
+				"pal",
+				"placeholder\tAttr"
+			],
+			[
+				"b",
+				"bold"
+			],
+			[
+				"if",
+				"ifmain\tif __name__ == '__main__'"
+			],
+			[
+				"user",
+				"user-message"
+			],
+			[
+				"fon",
+				"font"
+			],
+			[
+				"m",
+				"method\tAttr"
+			],
+			[
+				"rep",
+				"repeat"
+			],
+			[
+				"appo",
+				"appointment-date"
+			],
+			[
+				"he",
+				"height\tAttr"
+			],
+			[
+				"cl",
+				"class\tAttr"
+			],
+			[
+				"date",
+				"datetime\tAttr"
+			],
+			[
+				"h",
+				"height\tAttr"
+			],
+			[
+				"val",
+				"value\tAttr"
+			],
+			[
+				"repe",
+				"repeat-x"
+			],
+			[
+				"font",
+				"font"
+			],
+			[
+				"margi",
+				"margin-top"
+			],
+			[
+				"u",
+				"url()"
+			],
+			[
+				"url",
+				"url()"
+			],
+			[
+				"ss",
+				"ff-ss\tfont-family: sans-serif;"
+			],
+			[
+				"head",
+				"headline"
+			],
+			[
+				"trans",
+				"transition"
+			],
+			[
+				"tran",
+				"translateY()"
+			],
+			[
+				"mw",
+				"max-width"
+			],
+			[
+				"rg",
+				"rgba()"
+			],
+			[
+				"db",
+				"d-b\tdisplay: block;"
+			],
+			[
+				"bgzc",
+				"bgsz-cv\tbackground-size: cover;"
+			],
+			[
+				"clear",
+				"clearfix\t(index.html)"
+			],
+			[
+				"fr",
+				"fl-r\tfloat: right;"
+			],
+			[
+				"heaer",
+				"header"
+			],
+			[
+				"bgszc",
+				"bgsz-cv\tbackground-size: cover;"
+			],
+			[
+				"align",
+				"align-items"
+			],
+			[
+				"slide",
+				"slideDown\t.slideDown()"
+			],
+			[
+				"re",
+				"ready\tdocument.ready - $(function(){})"
+			],
+			[
+				"rea",
+				"ready\tdocument.ready - $(function(){})"
+			],
+			[
+				"mouse",
+				"mouseover\t.mouseover()"
+			],
+			[
+				"eve",
+				"event"
+			],
+			[
+				"css",
+				"css\t.css() - single"
+			],
+			[
+				"fir",
+				"firstParagraph\t(index.html)"
+			],
+			[
+				"cla",
+				"class\t(index.html)"
+			],
+			[
+				"sim",
+				"simpleList\t(index.html)"
+			],
+			[
+				"remo",
+				"removeClass\t.removeClass()"
+			],
+			[
+				"add",
+				"addClass\t.addClass()"
+			],
+			[
+				"repla",
+				"replaceWith\t.replaceWith()"
+			],
+			[
+				"read",
+				"ready\tdocument.ready - $(function(){})"
+			],
+			[
+				"ready",
+				"ready\tdocument.ready - $(function(){})"
+			],
+			[
+				"key",
+				"keyup\t.keyup()"
+			],
+			[
+				"html",
+				"html\t.html()"
+			],
+			[
+				"event",
+				"eventObject"
+			],
+			[
+				"text",
+				"text\t.text()"
+			],
+			[
+				"mouseenter",
+				"mouseenter\t(main.js)"
+			],
+			[
+				"animate",
+				"animate\t.animate()"
+			],
+			[
+				"clic",
+				"click\t.click()"
+			],
+			[
+				"attr",
+				"attr\t.attr() - single"
+			],
+			[
+				"fade",
+				"fadeOut\t.fadeOut()"
+			],
+			[
+				"anim",
+				"animate\t.animate()"
+			],
+			[
+				"for",
+				"for\tfor (…) {…}"
+			],
+			[
+				"hid",
+				"hide\t.hide()"
+			],
+			[
+				"mous",
+				"mouseenter\t.mouseenter()"
+			],
+			[
+				"togg",
+				"toggleClass\t.toggleClass()"
+			],
+			[
+				"padd",
+				"padding-top\t(style.css)"
+			],
+			[
+				"margin-",
+				"margin-top\t(style.css)"
+			],
+			[
+				"unde",
+				"underline\t(style.css)"
+			],
+			[
+				"A",
+				"'Big Caslon', 'Book Antiqua', 'Palatino Linotype', Georgia, serif"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"va",
+				"value"
+			],
+			[
+				"gu",
+				"guests"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n\t<meta charset=\"UTF-8\">\n\t<title>Document</title>\n\t<link rel=\"stylesheet\" href=\"css/main.css\">\n</head>\n<body>\n\t<script src=\"js/main.js\"></script>\n</body>\n</html>",
+			"file": "index.html",
+			"file_size": 0,
+			"file_write_time": 131865204801532003,
+			"settings":
+			{
+				"buffer_size": 200,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": ".bowerrc",
+			"settings":
+			{
+				"buffer_size": 29,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "$('string/element/array/function/jQuery object/string, context')\n",
+			"file": "build/js/common.js",
+			"file_size": 64,
+			"file_write_time": 131865207051632003,
+			"settings":
+			{
+				"buffer_size": 65,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "Packages/Python/Python.sublime-build",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 490.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"ayu: Activate theme",
+				"ayu: Activate theme"
+			],
+			[
+				"kist",
+				"Package Control: List Packages"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"lis",
+				"Package Control: List Packages"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"re",
+				"Package Control: Remove Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"ermove",
+				"Package Control: Remove Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Remove Package"
+			],
+			[
+				"setsy",
+				"Set Syntax: PHP"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"a",
+				"Autoprefix CSS"
+			],
+			[
+				"li",
+				"Package Control: List Packages"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"di",
+				"Package Control: Disable Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: list",
+				"Package Control: List Packages"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			]
+		],
+		"width": 653.0
+	},
+	"console":
+	{
+		"height": 162.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/Daddy/Desktop/Projects/app",
+		"/C/Users/Daddy/Desktop/Projects/app/sass"
+	],
+	"file_history":
+	[
+		"/C/Users/Daddy/Desktop/Projects/app/.bowerrc",
+		"/C/Users/Daddy/Desktop/Projects/app/bower.json",
+		"/C/Users/Daddy/Desktop/Projects/app/build/js/main.js",
+		"/C/Users/Daddy/Desktop/Projects/app/sass/style.sass",
+		"/C/Users/Daddy/Desktop/Projects/app/index - копия.html",
+		"/C/Users/Daddy/Desktop/Projects/app/app.sublime-project",
+		"/C/Users/Daddy/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/Daddy/AppData/Roaming/Sublime Text 3/Packages/Terminal/Default (Windows).sublime-keymap",
+		"/C/Users/Daddy/AppData/Roaming/Sublime Text 3/Packages/User/Terminal.sublime-settings",
+		"/C/Users/Daddy/AppData/Roaming/Sublime Text 3/Packages/Terminal/Terminal.sublime-settings",
+		"/C/Users/Daddy/AppData/Roaming/Sublime Text 3/Packages/User/Terminal (Windows).sublime-settings",
+		"/C/Users/Daddy/Desktop/Projects/app/build/css/style01.css",
+		"/C/Users/Daddy/AppData/Roaming/Sublime Text 3/Packages/User/SideBarEnhancements/Open With/Side Bar.sublime-menu",
+		"/C/Users/Daddy/Desktop/Projects/app/build/js/common.js",
+		"/D/WEB/Курсы/HTML ACADEMY/[HTML Academy] Профессиональный HTML и CSS Уровень 1/08 Оформление контента/barbershop/index.html",
+		"/D/WEB/Курсы/HTML ACADEMY/[HTML Academy] Профессиональный HTML и CSS Уровень 1/08 Оформление контента/barbershop/css/style.css",
+		"/D/WEB/Курсы/HTML ACADEMY/[HTML Academy] Профессиональный HTML и CSS Уровень 1/07 Декоративные элементы/nerds/index.html",
+		"/C/Users/Daddy/Desktop/Projects/app/index.html",
+		"/C/Users/Daddy/.bashrc",
+		"/C/Users/Daddy/.dircolors",
+		"/C/Users/Daddy/.bash_profile",
+		"/C/Users/Daddy/Desktop/Projects/.dircolors",
+		"/C/Users/Daddy/Desktop/Projects/app/.dircolors",
+		"/C/Users/Daddy/.dircolors.swp",
+		"/C/Users/Daddy/Downloads/Sites/planeta-ops.ru/txt.txt",
+		"/C/Users/Daddy/Downloads/Sites/planeta-ops.ru/planeta/11.18/production.php",
+		"/C/Users/Daddy/Downloads/Sites/planeta-ops.ru/planeta/11.18/front-page.php",
+		"/C/Users/Daddy/Downloads/Sites/planeta-ops.ru/planeta/11.18/ex_io_102_mk.php",
+		"/C/Users/Daddy/Downloads/Sites/planeta-ops.ru/planeta/11.18/io_102_59.php",
+		"/C/Users/Daddy/Downloads/Sites/planeta-ops.ru/planeta/11.18/io_102_50.php",
+		"/D/WEB/Курсы/HTML ACADEMY/[HTML Academy] Профессиональный HTML и CSS Уровень 1/07 Декоративные элементы/nerds/css/style.css",
+		"/C/Users/Daddy/Downloads/Sites/m-kontakt.ru/style.css",
+		"/C/Users/Daddy/Downloads/Sites/m-kontakt.ru/ex_io_102_mk.html",
+		"/C/Users/Daddy/Desktop/Projects/style.css",
+		"/C/Users/PC/Desktop/Projects/gulp test/app/sass/style.scss",
+		"/C/Users/PC/Desktop/Projects/npm_2016/crypt_logs/index.js",
+		"/C/Users/PC/Desktop/Projects/npm_2016/crypt_logs/package.json",
+		"/C/Users/PC/Desktop/Projects/gulp test/app/index.html",
+		"/C/Users/PC/Desktop/Projects/gulp test/gulpfile.js",
+		"/C/Users/PC/Downloads/Sites/planeta-ops.ru/txt.txt",
+		"/D/WEB/Курсы/loftschool-burger-master/README.md",
+		"/C/Users/PC/Desktop/Projects/npm_2016/crypt_logs/log.txt",
+		"/C/Users/PC/Desktop/Projects/gulp test/gulp-lesson-master/gulpfile.js",
+		"/C/Users/PC/Desktop/Projects/gulp test/package.json",
+		"/C/Users/PC/Desktop/Projects/gulp test/gulp-lesson-master/package.json",
+		"/C/Users/PC/Desktop/Projects/gulp test/app/css/style.css",
+		"/C/Users/PC/Desktop/Projects/gulp test/gulp-lesson-master/app/css/main.css",
+		"/C/Users/PC/Desktop/Projects/gulp test/app/sass/_part.scss",
+		"/C/Users/PC/Desktop/Projects/gulp test/app/css/libs.min.css",
+		"/C/Users/PC/Desktop/Projects/gulp test/app/sass/libs.scss",
+		"/C/Users/PC/Desktop/Projects/gulp test/app/css/libs.css",
+		"/C/Users/PC/Desktop/Projects/gulp test/app/js/libs.min.js",
+		"/C/Users/PC/Desktop/Projects/gulp test/.bowerrc",
+		"/C/Users/PC/Desktop/Projects/gulp test/app/js/main.js",
+		"/C/Users/PC/Desktop/Projects/gulp test/app/sass/01/02/03/dark.scss",
+		"/C/Users/PC/Desktop/Projects/gulp test/app/sass/01/deep.sass",
+		"/C/Users/PC/Desktop/Projects/gulp test/app/css/01/deep.css",
+		"/C/Users/PC/.v8flags.5.1.281.107.45732e78632e7dd2abee3843713f1ae8.json",
+		"/D/Programs/Movavi Screen Capture Studio 10.0.1 RePack (& Portable) by elchupacabra/Прочитать.txt",
+		"/D/Programs/Movavi Screen Capture Studio 10.0.1 RePack (& Portable) by elchupacabra/Описание.txt",
+		"/D/Programs/Movavi_Screen_Capture_Studio.10.0.1/Movavi_Screen_Capture_Studio.10.0.1/ПАРОЛЬ НА АРХИВ!!!.txt",
+		"/D/WEB/Курсы/HTML ACADEMY/[HTML Academy] Профессиональный HTML и CSS Уровень 1/07 Декоративные элементы/nerds/img/insta-icon.svg",
+		"/D/WEB/Курсы/HTML ACADEMY/[HTML Academy] Профессиональный HTML и CSS Уровень 1/07 Декоративные элементы/nerds/img/fb-icon.svg",
+		"/D/WEB/Курсы/HTML ACADEMY/[HTML Academy] Профессиональный HTML и CSS Уровень 1/07 Декоративные элементы/nerds/img/vk-icon.svg",
+		"/D/WEB/Курсы/HTML ACADEMY/[HTML Academy] Профессиональный HTML и CSS Уровень 1/07 Декоративные элементы/nerds/img/cart-icon.svg",
+		"/D/WEB/Курсы/HTML ACADEMY/[HTML Academy] Профессиональный HTML и CSS Уровень 1/08 Оформление контента/barbershop/catalog-item.html",
+		"/D/WEB/Курсы/HTML ACADEMY/[HTML Academy] Профессиональный HTML и CSS Уровень 1/08 Оформление контента/barbershop/css/style_product_price.css",
+		"/D/WEB/Курсы/HTML ACADEMY/[HTML Academy] Профессиональный HTML и CSS Уровень 1/08 Оформление контента/barbershop/css/style_catalog_item.css",
+		"/D/WEB/Курсы/HTML ACADEMY/[HTML Academy] Профессиональный HTML и CSS Уровень 1/08 Оформление контента/barbershop/css/style_catalog.css",
+		"/D/WEB/Курсы/HTML ACADEMY/[HTML Academy] Профессиональный HTML и CSS Уровень 1/08 Оформление контента/barbershop/product-price.html",
+		"/D/WEB/Курсы/HTML ACADEMY/[HTML Academy] Профессиональный HTML и CSS Уровень 1/08 Оформление контента/barbershop/catalog.html",
+		"/D/WEB/Курсы/HTML ACADEMY/[HTML Academy] Профессиональный HTML и CSS Уровень 1/10 Лучшие практики/no-js/style.css",
+		"/D/WEB/Курсы/HTML ACADEMY/[HTML Academy] Профессиональный HTML и CSS Уровень 1/10 Лучшие практики/Дополнительные материалы/Материалы.txt",
+		"/D/WEB/Курсы/HTML ACADEMY/[HTML Academy] Профессиональный HTML и CSS Уровень 1/10 Лучшие практики/no-js/main.js",
+		"/D/WEB/Курсы/HTML ACADEMY/[HTML Academy] Профессиональный HTML и CSS Уровень 1/08 Оформление контента/barbershop/css/style.min.css",
+		"/D/WEB/Курсы/HTML ACADEMY/[HTML Academy] Профессиональный HTML и CSS Уровень 1/10 Лучшие практики/no-js/index.html",
+		"/C/Users/PC/Downloads/Sites/m-kontakt.ru/212-69-1mr/212-69-1mr.html",
+		"/D/Новая папка/рабочий стол/test1.php",
+		"/D/Новая папка/рабочий стол/top.htm",
+		"/D/Новая папка/рабочий стол/Новый текстовый документ.txt",
+		"/D/Новая папка/рабочий стол/питание.txt",
+		"/C/Users/PC/Desktop/GitHub/192116-device/index.html",
+		"/C/Users/PC/Desktop/GitHub/192116-device/js/script.js",
+		"/C/Users/PC/Downloads/Sites/m-kontakt.ru/produc.htm",
+		"/C/Users/PC/Downloads/Sites/m-kontakt.ru/sk_555.html",
+		"/C/Users/PC/Downloads/Sites/m-kontakt.ru/io_102_555.html",
+		"/D/Altium/Новый текстовый документ.txt",
+		"/C/Users/PC/Downloads/Sites/planeta-ops.ru/planeta/new/front-page.php",
+		"/D/WEB/Курсы/HTML ACADEMY/[HTML Academy] Профессиональный HTML и CSS Уровень 1/08 Оформление контента/barbershop/img/logo.svg",
+		"/D/WEB/Курсы/HTML ACADEMY/[HTML Academy] Профессиональный HTML и CSS Уровень 1/07 Декоративные элементы/barbershop/catalog.html",
+		"/D/WEB/Курсы/HTML ACADEMY/[HTML Academy] Профессиональный HTML и CSS Уровень 1/07 Декоративные элементы/barbershop/catalog-item.html",
+		"/D/WEB/Курсы/HTML ACADEMY/[HTML Academy] Профессиональный HTML и CSS Уровень 1/07 Декоративные элементы/barbershop/index.html",
+		"/D/WEB/Курсы/HTML ACADEMY/[HTML Academy] Профессиональный HTML и CSS Уровень 1/07 Декоративные элементы/barbershop/css/style.css",
+		"/D/WEB/Курсы/HTML ACADEMY/[HTML Academy] Базовый HTML и CSS - 2016/htmlacademy-basic-additional-material-master/sections/section-6.md",
+		"/D/WEB/Курсы/HTML ACADEMY/[HTML Academy] Базовый HTML и CSS - 2016/htmlacademy-basic-additional-material-master/articles/типовые-названия-классов/article.md",
+		"/D/WEB/Курсы/HTML ACADEMY/[HTML Academy] Базовый HTML и CSS - 2016/Учебные макеты/Критерии.txt",
+		"/D/WEB/Курсы/HTML ACADEMY/[HTML Academy] Интенсивный онлайн-курс «Базовый HTML и CSS» (2017)/Новый текстовый документ.txt",
+		"/D/WEB/Курсы/HTML ACADEMY/[HTML Academy] Профессиональный HTML и CSS Уровень 1/07 Декоративные элементы/barbershop/img/facebook.svg",
+		"/D/WEB/Курсы/HTML ACADEMY/[HTML Academy] Профессиональный HTML и CSS Уровень 1/07 Декоративные элементы/barbershop/img/instagram.svg",
+		"/D/WEB/Курсы/HTML ACADEMY/[HTML Academy] Профессиональный HTML и CSS Уровень 1/07 Декоративные элементы/barbershop/img/vk.svg",
+		"/D/WEB/Курсы/HTML ACADEMY/[HTML Academy] Профессиональный HTML и CSS Уровень 1/06 Сетки/barbershop/css/style.css",
+		"/D/WEB/Курсы/HTML ACADEMY/[HTML Academy] Профессиональный HTML и CSS Уровень 1/06 Сетки/gllacy/css/style.css",
+		"/D/WEB/Курсы/HTML ACADEMY/[HTML Academy] Профессиональный HTML и CSS Уровень 1/06 Сетки/gllacy/catalog.html",
+		"/D/WEB/Курсы/HTML ACADEMY/[HTML Academy] Профессиональный HTML и CSS Уровень 1/06 Сетки/barbershop/index.html",
+		"/D/WEB/Курсы/HTML ACADEMY/[HTML Academy] Профессиональный HTML и CSS Уровень 1/06 Сетки/gllacy/index.html",
+		"/D/WEB/Курсы/HTML ACADEMY/[HTML Academy] Профессиональный HTML и CSS Уровень 1/06 Сетки/nerds/shop.html",
+		"/D/WEB/Курсы/HTML ACADEMY/[HTML Academy] Профессиональный HTML и CSS Уровень 1/06 Сетки/nerds/index.html",
+		"/D/WEB/Курсы/HTML ACADEMY/[HTML Academy] Профессиональный HTML и CSS Уровень 1/05 Введение в CSS/gllacy/index.html",
+		"/D/WEB/Курсы/HTML ACADEMY/[HTML Academy] Профессиональный HTML и CSS Уровень 1/06 Сетки/nerds/css/style.css",
+		"/D/WEB/Курсы/HTML ACADEMY/[HTML Academy] Профессиональный HTML и CSS Уровень 1/06 Сетки/barbershop/catalog.html",
+		"/D/WEB/Курсы/HTML ACADEMY/[HTML Academy] Профессиональный HTML и CSS Уровень 1/06 Сетки/barbershop/catalog-item.html",
+		"/D/WEB/Курсы/HTML ACADEMY/[HTML Academy] Профессиональный HTML и CSS Уровень 1/06 Сетки/Дополнительные материалы/Материалы.txt",
+		"/D/WEB/Курсы/HTML ACADEMY/[HTML Academy] Профессиональный HTML и CSS Уровень 1/07 Декоративные элементы/Дополнительные материалы/Бонусы по разработке.txt",
+		"/C/Users/PC/Downloads/Sites/planeta-ops.ru/planeta/new/production.php",
+		"/C/Users/PC/Downloads/Sites/planeta-ops.ru/planeta/new/io_102_51.php",
+		"/C/Users/PC/Downloads/Sites/planeta-ops.ru/planeta/new/ip_535_50.php",
+		"/C/Users/PC/Downloads/Sites/planeta-ops.ru/planeta/new/style_planeta.css",
+		"/D/WEB/Курсы/HTML ACADEMY/[HTML Academy] Профессиональный HTML и CSS Уровень 1/05 Введение в CSS/nerds/css/style.css",
+		"/D/WEB/Курсы/HTML ACADEMY/[HTML Academy] Профессиональный HTML и CSS Уровень 1/05 Введение в CSS/barbershop/css/style.css",
+		"/D/WEB/Курсы/HTML ACADEMY/[HTML Academy] Профессиональный HTML и CSS Уровень 1/05 Введение в CSS/nerds/shop.html",
+		"/D/WEB/Курсы/HTML ACADEMY/[HTML Academy] Профессиональный HTML и CSS Уровень 1/05 Введение в CSS/nerds/index.html",
+		"/C/Users/PC/AppData/Local/Temp/Rar$DIa0.477/README.txt",
+		"/D/WEB/Курсы/HTML ACADEMY/[HTML Academy] Профессиональный HTML и CSS Уровень 1/05 Введение в CSS/barbershop/catalog.html",
+		"/D/WEB/Курсы/HTML ACADEMY/[HTML Academy] Профессиональный HTML и CSS Уровень 1/05 Введение в CSS/barbershop/index.html",
+		"/D/WEB/Курсы/HTML ACADEMY/[HTML Academy] Профессиональный HTML и CSS Уровень 1/05 Введение в CSS/barbershop/catalog-item.html",
+		"/D/WEB/Курсы/HTML ACADEMY/[HTML Academy] Профессиональный HTML и CSS Уровень 1/05 Введение в CSS/Демо/Базовая стилизация карточки товара «Барбершопа»/Исходник/index.html",
+		"/D/WEB/Курсы/HTML ACADEMY/[HTML Academy] Профессиональный HTML и CSS Уровень 1/basic_template/css/normalize.css",
+		"/D/WEB/Курсы/HTML ACADEMY/[HTML Academy] Профессиональный HTML и CSS Уровень 1/04 Доступность/barbershop/catalog.html"
+	],
+	"find":
+	{
+		"height": 25.6
+	},
+	"find_in_files":
+	{
+		"height": 146.4,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"di",
+			"h2",
+			"минус",
+			"оС",
+			"60",
+			">\n",
+			"border-bottom: 2px solid #f8f8f8;",
+			"мод",
+			"мода",
+			"модал",
+			"modal",
+			"login-link",
+			"svg",
+			"container",
+			"height",
+			"features-list",
+			";\n",
+			"vertica",
+			"h2",
+			"<p class=\"product-title\">",
+			"description",
+			"hit",
+			"img",
+			"h2",
+			"price",
+			"slideInDown",
+			"slideInUp",
+			"news-item",
+			"fadeInLeft",
+			"slideInLeft",
+			"fadeIn",
+			"animated",
+			"slideInLeft",
+			"<img class=\"lazy\" src=",
+			"<img",
+			"img",
+			"h2",
+			"navba",
+			"news",
+			"h2",
+			"category-6",
+			"category-00",
+			"category-6",
+			"category-77",
+			"category-7",
+			"category-8",
+			".html",
+			"html",
+			".html",
+			"uk-table  uk-table-striped uk-table-condensed",
+			">\n",
+			"uk-table  uk-table-striped uk-table-condensed",
+			"list-item",
+			"duration",
+			"inline",
+			" </div>\n             <div class=\"row\">",
+			"макси",
+			"3M",
+			"breadcrumbs",
+			"product-item",
+			"product-name",
+			"btn",
+			"catalog-list",
+			"container",
+			" <offer id=",
+			"ольга",
+			"роман",
+			"%;\n",
+			"vitmo",
+			"Колба JTC-4631 для промывки автоматической системы кондиционирования JTC",
+			"<categoryId>6133",
+			"Приспособление для замены поликлинового ремня (MINI COOPER R50,R53,W10,W11) JTC",
+			"Приспособление для замены колодок тормозных (MERCEDES) JTC",
+			"<categoryId>6425",
+			"<categoryId>6427",
+			"<categoryId>6428",
+			"<categoryId>6427",
+			"Головка 1/2&quot; 8TS специальная для болтов балансировочного вала (NISSAN) JTC",
+			"Адаптер для компрессометра М14х1.25 300мм JTC",
+			"Адаптер для компрессометра М12х1.25 300мм JTC",
+			"categoryId>6426",
+			"НАБОР ГОЛОВОК ТОРЦЕВЫХ 1/2\" 12-ТИ ГРАННЫХ 08-32ММ В КЕЙСЕ 22 ПРЕДМЕТА JTC",
+			"<categoryId>6427",
+			"id=\"6362\"",
+			";\n",
+			".item",
+			"header",
+			"input",
+			"video",
+			"fa-env",
+			"form-input-group",
+			"btn",
+			"footer",
+			"strip",
+			"btn",
+			"btn-white",
+			"btn",
+			"fixed",
+			".single_image",
+			".flexslider",
+			"wp2",
+			"wp5",
+			"wp4",
+			"feature-list",
+			"responsive-feature-img",
+			"section-padding",
+			"product",
+			"features",
+			".features",
+			"intro",
+			"intro-icon",
+			"icon",
+			"navigation",
+			"#top",
+			".hero",
+			"btn-accent",
+			"blog",
+			"#blog",
+			".macbook-wrap",
+			"2535",
+			"2440",
+			"categoryId=\"2296\"",
+			"categoryId=\"2351\"",
+			"categoryId=\"2306\"",
+			"categoryId=\"2310\"",
+			"categoryId=\"2296\"",
+			"categoryId=\"100322\"",
+			"categoryId=\"100241\""
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"h3",
+			"border-bottom: 2px solid #eeeeee;",
+			"h3",
+			"<h3 class=\"product-title\">",
+			"title",
+			"product",
+			"h3",
+			"product-price",
+			"fadeIn",
+			"slideInDown",
+			"news-item wow slideInUp",
+			"fadeIn",
+			"fadeInLeft",
+			"slideInLeft",
+			"wow",
+			"fadeIn",
+			"<img class=\"lazy\" data-original=",
+			"<img class=\"lazy\"",
+			"h3",
+			"category-6",
+			"category-7",
+			"category-00",
+			"category-77",
+			"category-9",
+			".php",
+			"table",
+			"catalog-product-item",
+			"catalog-product-name",
+			".wrapper",
+			" - ",
+			", ",
+			" - ",
+			", ",
+			"main-header",
+			"Реклама"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 200,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								173,
+								173
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								}
+							],
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone": -1,
+							"bracket_highlighter.clone_locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										91,
+										95
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/tag.png",
+										"region.orangish"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										91,
+										95
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.clone_regions":
+							[
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content"
+							],
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										173,
+										174
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/double_quote.png",
+										"region.greenish"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										162,
+										163
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content"
+							],
+							"is_xml": false,
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": ".bowerrc",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 29,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								29,
+								29
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								}
+							],
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone": -1,
+							"bracket_highlighter.clone_locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										24,
+										25
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/curly_bracket.png",
+										"region.purplish"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										0,
+										1
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.clone_regions":
+							[
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content"
+							],
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										28,
+										29
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/curly_bracket.png",
+										"region.purplish"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										0,
+										1
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content"
+							],
+							"syntax": "Packages/zzz A File Icon zzz/aliases/JSON (Bower).sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "build/js/common.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 65,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								65,
+								65
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								}
+							],
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone": -1,
+							"bracket_highlighter.clone_locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										63,
+										64
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/round_bracket.png",
+										"region.yellowish"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										1,
+										2
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.clone_regions":
+							[
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content"
+							],
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content"
+							],
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.6
+	},
+	"input":
+	{
+		"height": 52.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.CSS Extended Completions":
+	{
+		"height": 136.0
+	},
+	"output.exec":
+	{
+		"height": 197.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 124.599998474
+	},
+	"pinned_build_system": "Packages/Python/Python.sublime-build",
+	"project": "app.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": false,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"build\\js\\common.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 248.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

@@ -1,0 +1,19 @@
+{
+  "name": "app",
+  "authors": [
+    "vitmord <vitmord@gmail.com>"
+  ],
+  "description": "my first app",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "1.11"
+  }
+}
